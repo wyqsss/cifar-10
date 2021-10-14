@@ -1,0 +1,13 @@
+# ignore python cache
+__pycache__
+
+
+# ignore pth file
+checkpoint
+
+# ignore tensorboard file
+Result
+
+# ignore txt
+*.txt
+*.log
